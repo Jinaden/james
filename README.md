@@ -23,7 +23,7 @@ This is my first independent project.It's a website detailing who I am and my ex
 6.Google-Fu
 ## Support and contact details
 
-Contact me on my GitHub profile for further enquiries.You can also email me at james.isaacin@yahoo.com.
+Contact me on my GitHub profile [GitHub](http://github.com/Jinaden/) for further enquiries.You can also email me at james.isaacin@yahoo.com.
 
 ### License
 
